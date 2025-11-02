@@ -1,10 +1,7 @@
 # Fullstack E‑commerce – Sơ đồ dự án
 
 Tài liệu này cung cấp cái nhìn trực quan về cấu trúc dự án:
-- Cây thư mục dạng văn bản (ASCII) để xem ngay cả khi Mermaid chưa render
-
-> Mẹo: Nếu bạn muốn dùng sơ đồ Mermaid, hãy cài extension VS Code “Markdown Mermaid” (ID: bierner.markdown-mermaid), hoặc mở file này trên GitHub (có hỗ trợ Mermaid sẵn).
-
+- Cây thư mục dạng văn bản (ASCII)
 
 ## ASCII tree
 
